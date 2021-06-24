@@ -1,0 +1,5 @@
+loggin:
+  level:
+    one:
+      digitalinnovation:
+        personapi: DEBUG
