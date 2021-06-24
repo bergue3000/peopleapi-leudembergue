@@ -65,11 +65,7 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-		<dependency>
-			<groupId>pl.project13.maven</groupId>
-			<artifactId>git-commit-id-plugin</artifactId>
-			<version>4.0.4</version>
-		</dependency>
+
 	</dependencies>
 	<build>
 		<plugins>
