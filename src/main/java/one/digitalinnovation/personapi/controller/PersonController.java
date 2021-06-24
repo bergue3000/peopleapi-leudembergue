@@ -18,7 +18,7 @@ public class PersonController {
     @GetMapping
     public String getBook(){
 
-        return "API Test";
+        return "API Test: Leudembergue";
     }
 
 }
